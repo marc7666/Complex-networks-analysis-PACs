@@ -1,10 +1,10 @@
-\# PACs "Anàlisi de xarxes complexes"
+# PACs "Anàlisi de xarxes complexes"
 
 
 
-\## PAC 1: Anàlisi de xarxes
+## PAC 1: Anàlisi de xarxes
 
 
 
-\### Teoria dels 6 graus de separación - Duncan J. Watts
+### Teoria dels 6 graus de separación - Duncan J. Watts
 
