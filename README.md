@@ -13,3 +13,7 @@
 ### Xarxa Multicapa de "Game of Thrones"
 
 ### Complexos Simplicials en contagis socials
+
+## PAC 4: Aprenentatge automàtic en grafs
+
+### Graph neural networks aplicades a la química i la bioinformàtica
