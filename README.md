@@ -17,3 +17,5 @@
 ## PAC 4: Aprenentatge automàtic en grafs
 
 ### Graph neural networks aplicades a la química i la bioinformàtica
+
+## PAC 5: Hackaton en xarxes complexes
